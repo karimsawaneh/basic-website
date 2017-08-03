@@ -1,0 +1,25 @@
+{
+  "name": "basic-website",
+  "version": "1.0.0",
+  "description": "A simple express website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimsawaneh/basic-website.git"
+  },
+  "author": "Karim Sawaneh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "pug": "*",
+    "nodemailer": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/karimsawaneh/basic-website/issues"
+  },
+  "homepage": "https://github.com/karimsawaneh/basic-website#readme"
+}
